@@ -1,5 +1,5 @@
 """
-An agent to land the “Lunar Lander” in OpenAI gym using deep Q-Network (DQN) with epsilon-greedy exploration.
+An agent to land the “Lunar Lander” from OpenAI gym environment using deep Q-Network (DQN) with epsilon-greedy exploration.
 
 """
 
