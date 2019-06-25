@@ -8,7 +8,7 @@ Tensorflow implementation of Deep Q-learning (DQN) tested on the OpenAI gym Luna
 - To train and test a network, run `lunar_lander.py`
 
 ### Dependencies
-Trained and tested on:
+- Trained and tested on:
 ```
 Python 2.7
 NumPy 1.16.4
