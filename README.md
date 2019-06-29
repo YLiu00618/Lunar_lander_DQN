@@ -1,6 +1,6 @@
 # Lunar_lander_DQN
 
-Tensorflow implementation of Deep Q-learning (DQN) tested on the OpenAI gym Lunar lander environment.
+TensorFlow implementation of Deep Q-learning (DQN) tested on the OpenAI gym Lunar lander environment.
 
 - [Lunar Lander Continuous v2](http://gym.openai.com/envs/LunarLanderContinuous-v2/) 
 
