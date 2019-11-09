@@ -2,10 +2,10 @@
 
 TensorFlow implementation of Deep Q-learning (DQN) tested on the OpenAI gym Lunar lander environment.
 
-- [Lunar Lander Continuous v2](http://gym.openai.com/envs/LunarLanderContinuous-v2/) 
+- [LunarLander-v2](https://gym.openai.com/envs/LunarLander-v2/) 
 
 ### Preview
-<img src="preview/preview.gif" width=500>
+<img src="preview/preview.gif" width=400>
 
 ### Usage
 - To train and test a network, run `lunar_lander.py`
